@@ -1,0 +1,98 @@
+p {
+	color: #FFE700;
+	font-family: centaur Regular;
+	text-align: center;
+	font-size: 2em;
+	margin: 20pt;
+	padding: 20pt;
+}
+h1 {
+	color: #B31E50;
+	font-family: 'Dhurjati', sans-serif;
+	text-align: center;
+	font-size: 5rem;
+}
+a {
+	color: #B31E50;
+}
+a:hover {
+	text-decoration: none;
+}
+#background_image {
+	background-image: url(http://s3.amazonaws.com/everystockphoto/fspid30/31/20/26/0/tileable-classic-nebula-3120260-o.jpg);
+	background-size: cover;
+	position: :absolute;
+}
+h2 {
+	font-family: 'Dhurjati', sans-serif;
+	color: #B31E50;
+	text-align: left-center;
+	padding-left: 1.5em;
+}
+#profilePhoto {
+	float: right;
+	height: 3em;
+	width: auto;
+	margin-top: 20px;
+	margin-right: 20px;
+	border-radius: 100px;
+}
+#profilePhoto:hover {
+	opacity: .5;
+	border: 2px solid #C70039;
+}
+div h2 {
+	border-bottom: 2px;
+	border-color: #C62AC4
+}
+body nav {
+	background-color: #B31E50;
+	padding: 2px 20px;
+}
+body nav ul {
+	list-style: none;
+	float: right;
+}
+body nav ul li {
+	display: inline-block;
+	padding: 20px 10px;
+}
+body nav ul li a:hover {
+	color: #d35400;
+}
+nav ul li a, nav ul li a:visited {
+	color: #FFE700;
+	text-decoration: none;
+	font-size: 1em;
+	text-align: center;
+}
+.clear {
+	clear: both;
+}
+h1.site-title {
+	display: inline-block;
+	color: #FFE700;
+	padding-top: 20px;
+	font-size: 2em;
+}
+li.active-page {
+	background: rgba(0, 0, 0, .2);
+}
+footer nav {
+	font-size: 2em;
+	text-align: center;
+}
+footer nav ul {
+	text-align: center;
+}
+.label {
+	color: white;
+	font-weight: bold;
+}
+hr {
+	border-width: 2px;
+	border-color: yellow;
+}
+.center {
+	text-align: center;
+}
